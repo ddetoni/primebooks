@@ -1,1 +1,5 @@
 /target/
+/.idea/
+books.mv.db
+books.trace.db
+boot-faces.iml
