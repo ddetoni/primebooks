@@ -72,7 +72,7 @@ public class BookModel {
         this.book.setDescription(found.getDescription());
     }
 
-    public List<BookView> findAllBooks() {
+    public List<BookView> getAllBooks() {
         List<BookView> books = new ArrayList<BookView>();
         for(Book entity : this.bookRepository.findAll()) {
             BookView view = new BookView();
@@ -84,7 +84,7 @@ public class BookModel {
             view.setDescription(entity.getDescription());
             books.add(view);
         }
+
         return books;
     }
-
 }
