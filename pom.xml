@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.oakdalesoft</groupId>
-    <artifactId>boot-faces</artifactId>
+    <groupId>com.ddetoni</groupId>
+    <artifactId>prime-books</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <!-- Inherit defaults from Spring Boot -->

@@ -25,7 +25,7 @@ import javax.servlet.DispatcherType;
  */
 
 @EnableAutoConfiguration
-@ComponentScan({"com.oakdalesoft.bootfaces"})
+@ComponentScan({"com.ddetoni.primebooks"})
 public class Application extends SpringBootServletInitializer {
 	
 	@Value("${init.json}")
