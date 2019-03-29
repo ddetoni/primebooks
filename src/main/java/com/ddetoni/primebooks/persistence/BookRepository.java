@@ -1,6 +1,6 @@
-package com.oakdalesoft.bootfaces.persistence;
+package com.ddetoni.primebooks.persistence;
 
-import com.oakdalesoft.bootfaces.domain.Book;
+import com.ddetoni.primebooks.domain.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

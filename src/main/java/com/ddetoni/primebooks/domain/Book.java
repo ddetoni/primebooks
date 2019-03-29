@@ -1,4 +1,4 @@
-package com.oakdalesoft.bootfaces.domain;
+package com.ddetoni.primebooks.domain;
 
 import javax.persistence.*;
 

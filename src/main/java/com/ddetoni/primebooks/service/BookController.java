@@ -1,7 +1,7 @@
-package com.oakdalesoft.bootfaces.service;
+package com.ddetoni.primebooks.service;
 
-import com.oakdalesoft.bootfaces.domain.Book;
-import com.oakdalesoft.bootfaces.persistence.BookRepository;
+import com.ddetoni.primebooks.persistence.BookRepository;
+import com.ddetoni.primebooks.domain.Book;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;

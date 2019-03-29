@@ -1,7 +1,7 @@
-package com.oakdalesoft.bootfaces.view;
+package com.ddetoni.primebooks.view;
 
-import com.oakdalesoft.bootfaces.domain.Book;
-import com.oakdalesoft.bootfaces.persistence.BookRepository;
+import com.ddetoni.primebooks.domain.Book;
+import com.ddetoni.primebooks.persistence.BookRepository;
 
 import javax.faces.application.FacesMessage;
 import javax.faces.bean.ManagedBean;

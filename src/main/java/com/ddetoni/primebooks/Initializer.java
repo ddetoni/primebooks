@@ -1,4 +1,4 @@
-package com.oakdalesoft.bootfaces;
+package com.ddetoni.primebooks;
 
 import org.springframework.boot.context.embedded.ServletContextInitializer;
 import org.springframework.context.annotation.Configuration;

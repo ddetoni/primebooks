@@ -1,4 +1,4 @@
-package com.oakdalesoft.bootfaces;
+package com.ddetoni.primebooks;
 
 import java.util.EnumSet;
 

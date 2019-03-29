@@ -1,6 +1,7 @@
-package com.oakdalesoft.bootfaces.view;
+package com.ddetoni.primebooks.view;
 
-import com.oakdalesoft.bootfaces.domain.Book;
+import com.ddetoni.primebooks.domain.Book;
+
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 
